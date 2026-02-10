@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "pdf-lib": "^1.17.1",
-    "@pdfsmaller/pdf-encrypt-lite": "^1.0.6",
+    "@pdfsmaller/pdf-encrypt-lite": "^1.0.1",
     "busboy": "^1.6.0"
   }
 }
